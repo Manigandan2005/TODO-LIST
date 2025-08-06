@@ -52,22 +52,6 @@ _Use an Android device to install._
 | State Management |    Provider                       |
 | Animations       |    Flutter’s built-in transitions |
 
----
-lib/
-├── main.dart
-├── models/
-│ └── task.dart
-├── screens/
-│ ├── login_screen.dart
-│ ├── home_screen.dart
-│ └── task_detail_screen.dart
-├── widgets/
-│ ├── task_tile.dart
-│ └── task_form.dart
-├── services/
-│ └── auth_service.dart
-└── providers/
-└── task_provider.dart
 
 ---
 
